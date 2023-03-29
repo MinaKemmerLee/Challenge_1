@@ -11,6 +11,6 @@ What are some limitations of this dataset?
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 -	Country of Origin vs Outcome
         - Would show where crowdfunding projects originate from and compare if they are more successful in some places over others.
--	# of Backers vs Parent Categories
+-	Number of Backers vs Parent Categories
         - Would show how many people are interested in contributing to which categories regardless of success or failure of the project. 
 
