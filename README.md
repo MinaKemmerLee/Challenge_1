@@ -1,4 +1,5 @@
 ANALYSIS:
+
 Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 -	Projects created between the months May and August are more successful compared to those started before or after those months. Sep-Dec having 177 successful projects, Jan-Apr having 188 successful projects and May-Aug having 200 successful projects.
 -	The most popular crowdfunding category is Theater, specifically Plays.
